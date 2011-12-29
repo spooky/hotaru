@@ -1,0 +1,9 @@
+A ridiculously simple django for helping with creating static web pages.
+You can use django template syntax to keep the markup DRY
+
+Usage:
+    * drop an html file into the templates directory (e.g. foo.html)
+    * run the app
+    * type in a url that contains the name of your template whithout the extension (e.g. localhost:8000/foo)
+    
+By default index.html will be displayed
