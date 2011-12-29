@@ -1,4 +1,4 @@
-A ridiculously simple django for helping with creating static web pages.
+A ridiculously simple django app for helping with static web pages.
 You can use django template syntax to keep the markup DRY
 
 Usage:
